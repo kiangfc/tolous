@@ -1,0 +1,859 @@
+---
+title: SCI2019-EIU
+author: atien
+date: '2021-02-07'
+slug: sci2019-eiu
+categories: []
+tags: []
+---
+
+# 关于报告
+
+2019年安全城市指数是《经济学人》智库报告，由NEC Corporation赞助。该报告基于第三代指数（the third iteration of the index），该指数用涵盖数字安全（digital security），健康安全（health security），基础设施安全（infrastructure security）和人身安全（personal security）等4个方面57个指标对全球60个城市进行了排名。
+
+# 执行摘要（Executive summary）
+
+Humanity is a predominantly urban species, with over 56% of us living in cities. By 2050 68% will do so, reflecting a speed of urbanisation even faster than previously predicted. This process is occurring most visibly in developing countries, some of which struggle to deal with the extent of change. Indeed, the challenges of urbanisation, if unmet, can entail substantial human and economic risks. On the other hand, if they are effectively addressed, the growth of cities may become an essential part of how emerging economies find a way to catch up to those in more developed countries and how humanity as a whole creates more sustainable ways to live.
+
+人类是主要的城市物种，我们超过56％的人生活在城市中。到2050年，将达到68％，这反映出城市化的速度甚至比以前预测的还要快。这一过程在发展中国家最为明显，其中一些国家在努力应对变化的程度。确实，城市化的挑战如果未能得到满足，可能会带来巨大的人类和经济风险。另一方面，如果得到有效解决，城市的增长可能成为新兴经济体如何找到赶超发达国家的方法以及整个人类如何创造更可持续的生活方式的重要组成部分。
+
+Thus, urban management will play a fundamental role in defining the quality of life of most human beings in the coming years. A key element of this will be the ability of cities to provide security for their residents, businesses and visitors. Accordingly, The Economist Intelligence Unit, sponsored by NEC Corporation, maintains the Safe Cites Index (SCI)—a detailed benchmarking tool that measures a wide range of security inputs and results.
+
+因此，在未来几年中，城市管理将在定义大多数人的生活质量方面发挥根本作用。其中一个关键要素将是城市为居民，商业和游客提供安全保障的能力。因此，由NEC Corporation赞助的经济学人智库维护了“安全城市指数”（SCI），这是一个详细的基准测试工具，可以衡量各种安全输入和结果。
+
+The SCI has always reflected the multifaceted nature of urban safety, with indicators divided into four distinct pillars: digital, infrastructure, health and personal security. The 2019 version (SCI2019)—which this report accompanies the release of—benefits from a major revision designed to better measure “urban resilience”. This concept—the ability of cities to absorb and bounce back from shocks—has had an increasing influence on thinking in urban safety over the last decade, especially as policymakers worry about the implications of climate change. Rather than trying to create a fifth distinct pillar of security, the index now measures new areas within the other four of particular relevance to resilience such as disaster-risk informed development policies.
+
+SCI始终反映了城市安全的多面性，指标分为四个不同的支柱：数字，基础设施，健康和人身安全。随本报告发布的SCI2019具有重大改进的优点，旨在更好地衡量“城市弹性”。在过去的十年中，这一概念（城市吸收冲击并从冲击中反弹的能力）对城市安全的思想影响越来越大，尤其是当决策者担心气候变化的影响时。现在，该指数不再试图建立第五个不同的的安全支柱，而是在其他四个与弹性特别相关的新领域中进行评估，例如灾害风险明智的发展政策。
+
+The key findings from the expanded and updated SCI this year include:
+
++ **Tokyo again comes first overall, and Asia-Pacific cities make up six of the top ten, but geographic region does not have a statistical link with results.** As it did in the previous
+SCI, Tokyo has the highest overall score in our index. Other cities in the top ten are Singapore
+(2nd), Osaka (3rd), Sydney (5th), Seoul (tied 8th) and Melbourne (10th). Two European cities are
+in this group, Amsterdam (4th) and Copenhagen (tied 8th), while two from America complete
+it, Toronto (6th) and Washington, DC (7th). However, a closer look at the important correlates
+of security, discussed below, found city safety is not related to global region: Tokyo, Singapore
+and Osaka lead because of their specific strengths, not because they happen to be in Asia.
+
++ **The results in individual index pillars show the importance of getting the basics right.**
+Leo Tolstoy famously wrote, “All happy families are alike: each unhappy family is unhappy in its
+own way.” A look at the top five cities in each pillar—digital, health, infrastructure and personal security—yields a similar message. In each area, leading cities got the basics right, be it easy access to high-quality healthcare, dedicated cyber-security teams, community-based police
+patrolling or disaster continuity planning. Even among the leaders, the weaknesses of those
+not in first place tended to vary from city to city. Those who want to improve need to get the
+basics in place and then consider their own specific situations.
+
+Looking at the index results as a whole provides a number of key insights into urban security:
+
++ **Despite having many elements, city safety is indivisible.** The different kinds of security
+covered by the index require distinct interventions, often by different agencies or actors,
+such as health systems for medical care and police for public order. Amid this diversity,
+though, statistical analysis of the SCI2019 results shows that performance in each of the
+pillars correlates very closely with that in every other. In short, cities tend to do well, middling or poorly across every security pillar rather than having good results in one and lagging in others. This is consistent with expert commentary that, rather than representing clearly
+distinct fields, different kinds of safety are thoroughly intertwined and mutually supportive.
+
+> Service planning and provision must take this into account. Technological investments
+for infrastructure, for example, can bring health benefits, while enhanced cyber-security
+will protect the ability of the city to provide every kind of security, not just protection of
+digital systems.
+
++ **The SCI2019 results are not evenly spread but have a large number of cities clustered at the top, with the rest showing much more variation in scores.** Just 10 points separate
+the overall scores of the top 24 cities, while the following 36 are over 40 points apart. This
+does not mean that the differences in the leaders’ group are unimportant. Instead, on a scale
+that can measure every index city, the large group of top cities are much more similar to each
+other than to those lagging behind.
+
++ **Higher income sets apart those with better results, but in ways that are less than obvious.** The index scores correlate strongly with average income in the cities. In part
+this reflects the need to invest sometimes substantial amounts in certain areas essential
+to security, such as high-quality infrastructure or advanced healthcare systems. The more
+surprising contribution to this correlation is that, across our index, those cities with less wealth also tend to lack policy ambition. As one interviewee told us, the biggest challenges facing Sub-Saharan African cities reflect a lack of effective planning and management. Low-hanging
+(or at least relatively low-cost) fruit exist, which all cities that have not already done so should attempt to harvest. Doing so requires focus and perseverance.
+
++ **Transparency matters as much as wealth to urban security.** Levels of transparency in
+cities, as measured by the World Bank’s Control of Corruption metric, correlated as closely
+as income with index scores. Correlation does not guarantee causation, but interviewed
+experts stressed the many ways that transparency and accountability are essential in every
+pillar of urban security, from building safer bridges to developing the trust needed for relevant
+stakeholders to share information on cyber-attacks. Well-governed, accountable cities are
+safer cities.
+
++ **Transparency and a new understanding of the elements of urban safety are essential to resilience.** Those parts of our index most directly related to resilience indicate that,
+as with safety more generally, higher incomes are associated with better preparedness.
+This is unsurprising: technologically advanced infrastructure, for example, if appropriately
+deployed, can be an important contributor to resilience. In this case, though, transparency
+and accountability seem to be of even greater importance: a poorly governed city will almost
+never be resilient.
+
+> Although not able to offer a general prescription for resilience, our research points to
+a number of key elements, including joint planning by all relevant stakeholders, both
+governmental and non-governmental, to prepare for shocks; a new understanding of
+infrastructure that uses a city’s natural assets as tools to enhance its ability to absorb
+shocks; and the importance of promoting social connectedness among citizens in creating
+communities that will work together in a crisis.
+
+# Introduction: Why urban safety matters to us all
+
+## A disorderly transition toward ever-greater urbanity
+
+Humanity is a predominantly urban species, having become so a little
+over a decade ago according to UN Population Division data. And it is
+becoming even more so: the 56% of the world’s population who live in
+cities today will rise to 68% by 2050.
+
+More than simply where most humans live, cities are where we do
+business, producing an outsized proportion of economic output
+because of a greater efficiency than rural areas. New Climate Initiative,
+a think-tank, estimated that in 2015 urban areas in total created 85% of
+the world’s GDP while generating only 71% to 76% of greenhouse gas
+emissions.2 Accordingly, the success or failure of cities will define the
+quality of human life in the years ahead.
+
+This may seem like old news: urbanisation has been occurring for many
+decades, and for centuries in some regions. Familiarity with the longterm
+narrative, however, should not obscure the current challenge’s
+novelty. First, as Adie Tomer, who leads the Metropolitan Infrastructure
+Initiative at the Brookings Institution, a think-tank, notes, “We have
+never seen cities on this scale in human history. Managing populations of
+15-plus million is something new.”
+
+UN data back him up. As late as 2005, only Tokyo had more than 20m
+residents. Today, nine cities do, and by 2030 that number should have
+reached 14. Beyond the megacities, the challenge is even more daunting:
+today’s 30 largest cities are expected to add 45m residents between 2020
+and 2025, but those sized from 1-5m, because of their greater number,
+will have aggregate population growth of nearly 100m. Gino Van Begin,
+secretary-general of ICLEI, Local Governments for Sustainability, a
+local-government network, observes those “citizens will all need energy,
+water, jobs, education, food, mobility, housing [and other essentials].”
+
+Overall, numbers tell only part of the story. Urbanisation is as uneven
+and disorderly as it is substantial.
+
+On the one hand, the population shift toward cities is largely complete
+in developed countries: all of Australasia, Northern and Western Europe,
+the US and Canada, for example, are already more than 80% urban. More generally in wealthier states, over the next ten years the urban proportion of the population will stay largely flat, typically rising by 1-2% across that entire period. In some Japanese cities, such as Tokyo and Osaka, little inward migration combined with low birth rates will mean a decrease in the total population. Amid the relative safety and order of such places, it is easy to look with equanimity on the world’s ongoing urbanisation.
+
+The challenges are far more pressing elsewhere. The urbanisation of the early 21st
+century is a phenomenon of the developing world, which already has 25 of the world’s 30
+largest cities. In particular, the speed of growth within the increasing number of emerging
+mega-cities is historically rapid, in some cases unprecedented. Thomas Bollyky, senior fellow
+for Global Health at the US Council on Foreign Relations, notes that during their respective
+fastest decades of growth, London saw an increase of just under 100,000 residents per
+year and New York City 220,000. By contrast,he says, over the past ten years Dhaka grew
+by roughly 450,000 people annually and New Delhi by 620,000.
+
+Going beyond the largest cities, over the next decade the countries and regions with  the fastest annual relative rise in the urban proportion of the population will include China (1.4% per year), India (1.4%), and Sub-Saharan Africa (1.2%). In absolute terms, the change will be particularly visible in the first of these, as its percentage growth starts from a bigger numerical base: already more than half of China’s population live in cities. In that
+country alone, during the next ten years, urban populations in aggregate will expand by 143m
+people, or roughly 13%.
+
+If anything, the best demographic estimates may be having trouble keeping up with the
+speed of urbanisation. In 2014 and 2018 the UN Population Division projected the likely
+increase in the number of urban residents between 2020 and 2030. During that four-year
+period, demographers increased their earlier estimates for China, India and Sub-Saharan
+Africa by 10% to 15%.
+
+For specific cities, this will mean the already very large challenges are now expected to be
+even bigger. New Delhi city planners in 2014, for example, could expect to need to address the
+requirements of 6.7m more residents between 2020 and 2030. Now, the likeliest figure is 8.7m.
+
+Those arriving to join the burgeoning populations of developing world cities frequently find conditions far from easy.As Siddharth Agarwal, director of the Urban Health Resource Centre, an Indian non-government organisation (NGO), points out,“in the most rapidly growing cities, the urban disadvantaged, most of whom provide lowcost services, represent the fastest expanding
+segment of the population. Without these lowwage workers, living behind urban glamour,the city’s sheen, infrastructure and services cannot grow.” All too often, these individuals lead precarious lives. In China, for example,240m people, or more than one in six of the total population, live in cities outside of their legal province of registration.This “floating population”, lacking a right even to stay where they are—let alone access to various healthcare and other local assistance schemes—typically live with poor employment, social and housing conditions.5 They also make up many of the quarter of China’s urban population who live in informal settlements. Outside of China,the proportion in slums can be higher still: in New Delhi for example, the world’s second largest city, 49% of residents are in informal settlements, and in Lagos it is over half.
+
+It is, however, too easy to see urbanisation as a looming disaster inflicting widespread
+neo-Dickensian squalor on much of humanity.Certainly, the unstructured, accelerating
+growth of developing world cities raises thespectre of vast challenges that, if unmet,
+could bring substantial human misery.Simultaneously, though, it holds out the
+prospect of a much more hopeful future.Experts interviewed for this study stress the
+importance of the latter. Alioune Badiane—president of The Urban Think Tank Africa
+(TUTTA) based in Senegal—explains regarding his region that “some years ago, people thought urbanisation was something evil. Now it is seen as one of the key ingredients which can help
+the African continent leapfrog economically.” He adds that even amid the obvious, ongoing
+need large numbers of city dwellers still have for basic services, progress is obvious. “Every
+day, the situation is improving. Urbanisation is spurring development,” he adds. Looking more
+globally, Mr Bollyky sees similar possibilities.“Urbanisation is a positive thing,” he says.
+“No country has become wealthy without urbanising first. There are challenges to be
+addressed, but urbanisation itself should not be regretted.”
+
+This is not simply whistling in the dark: even the unprecedented speed of growth in today’s
+developing world megacities in itself is a sign of hope. The expansion of urban populations
+in 19th century Europe and the US came largely from inward migration, as death rates
+limited the natural increase of city populations through birth. Today, despite the substantial
+number of new arrivals to urban areas across the developing world, most urban population
+growth comes from babies being born in these cities and surviving.
+
+Urbanisation has already shaped the developed world and is redefining developing countries. It
+can be a blessing, a curse, or both in individual locations and for human beings as a whole. Its
+effect depends on how well urban governments and residents manage the challenges, both
+those common to all cities and specific to particular locations. This study looks at perhaps
+the most fundamental element of urban management: the ability to provide safety.
+
+# The many faces of security
+
+## The Economist Intelligence Unit’s Safe Cities Index 2019
+
+Given urban security’s importance, The Economist Intelligence Unit, sponsored by NEC
+Corporation, maintains a regularly updated index to assess the relevant strengths and
+weaknesses of leading cities worldwide. This publication accompanies the release of the
+SCI2019, its third edition, which covers 60 major urban areas.
+
+But, for a city, what does “safe” mean? Rules of thumb can provide a useful starting point
+in framing an answer. Mr Badiane notes that “in any city where you can often see a woman
+walking alone at night, you can bet that is a safe city.” On one level, this statement seems
+a simple one about personal security,in particular a low likelihood of violent attack.
+Looking deeper, though, quickly brings up more issues. Walking alone at night also requires
+infrastructure, including places to walk where one is unlikely to be hit by vehicles and lighting
+that not only deters violence but also lets our pedestrian see where she is going. Similarly,
+unhealthy levels of air pollution or a lack of public health education, which mean fewer
+people see the value of walking, could take our notional pedestrian off the street. Finally, Mr
+Badiane’s scene would seem far less safe were the contactless debit cards in our pedestrian’s
+purse charged by someone with a hidden RFC reader walking in the other direction.
+
+Safety then, even when it appears simple, is multifaceted. Accordingly, our index scores
+draw on 57 distinct factors,or indicators,some of which in turn aggregate multiple data
+points. The environmental policy indicator,for example, looks at: whether or not a
+municipal environment department exists and, if so, the extent of its remit; whether the
+city has recently conducted an environmental review and, if so, the breadth of its coverage;
+and how publicly accessible environmental information is. The indicators also balance
+breadth and detail, covering areas as far apart as perceptions of corruption and the extent of
+internet access.
+
+The indicators fall into four broad categories,or pillars: personal, infrastructure, health and
+digital security. Within each pillar, the relevant indicators are grouped into inputs of safety,
+such as policies or personnel dedicated to some aspect of security, and outcomes,
+which is anything from air pollution levels to crime rates.
+
+Put simplistically, outputs measure how safe a city currently is, while the inputs indicate which
+cities are doing the right things to enhance safety. Both are essential to understanding the
+security situation. Not only will policy likely enhance safety-related outcomes in the future,
+but they may also be essential to preserving them in the present. As Victor Lam, Hong
+Kong’s government chief information officer,says of digital security, “we say we are well
+protected, but who knows? There are bound to be incidents. There are attacks every day. We
+have to be ready to respond very quickly.” Not surprisingly, the overall input and output scores
+correlate closely.
+
+# SCI2019 pillars and indicators
+
+## Digital security
+### Inputs
++ Privacy policy
++ Citizen awareness of digital threats
++ Public-private partnerships
++ Level of technology employed
++ Dedicated cyber-security teams
+
+### Outputs
++ Risk of local malware threats
++ Percentage of computers infected
++ Percentage with internet access
+
+## Infrastructure security
+### Inputs
++ Enforcement of transport safety
++ Pedestrian friendliness
++ Disaster management/business continuity plan
+
+### Outputs
++ Deaths from natural disasters
++ Road traffic deaths
++ Percentage living in slums
++ Number of attacks on facilities/infrastructure
++ Institutional capacity and access to resources
++ Catastrophe insurance
++ Disaster-risk informed development
++ Air transport facilities
++ Road network
++ Power network
++ Rail network
++ Cyber-security preparedness
+
+## Health security
+### Inputs
++ Environmental policies
++ Access to healthcare
++ No. of beds per 1,000 population
++ No. of doctors per 1,000 population
++ Access to safe and quality food
++ Quality of health services
+
+### Outputs
++ Air quality (PM 2.5 levels)
++ Water quality
++ Life expectancy years
++ Infant mortality
++ Cancer mortality rate
++ No. of biological, chemical,radiological weapons attacks
++ Emergency services in the city
+
+## Personal security
+### Inputs
++ Level of police engagement
++ Community-based patrolling
++ Available street-level crime data
++ Use of data-driven techniques for crime
++ Private security measures
++ Gun regulation and enforcement
++ Political stability risk
++ Effectiveness of the criminal justice system
++ Hazard monitoring
+
+### Outputs
+
++ Prevalence of petty crime
++ Prevalence of violent crime
++ Organised crime
++ Level of corruption
++ Rate of drug use
++ Frequency of terrorist attacks
++ Severity of terrorist attacks
++ Gender safety (female homicide)
++ Perceptions of safety
++ Threat of terrorism
++ Threat of military conflict
++ Threat of civil unrest
+
+## The rise of resilience and enhancements to this year’s index
+
+Any index that measures over time needs to evolve along with the field it covers. The conventional wisdom among those involved in urban safety increasingly holds that not only do a wide variety of factors matter in this field, but so too does their interaction. “A city
+is composed of urban systems,” says Esteban Leon, chief of the risk reduction unit and head of the city resilience profiling programme at UN-Habitat. This understanding of a city is reshaping how an increasing number of urban governments approach low-frequency, highrisk events, whether involving acute disasters or longer-term threats, notably climate change and chronic social stresses.
+
+Until recently, says Ede Ijjasz-Vasquez, senior director of the World Bank’s Social, Urban,Rural and Resilience Global Practice, shocks to a city “have been seen from a sectoral perspective: health emergencies have been dealt with by the health services; floods by drainage departments; refugees by housing departments.” Now, though, many cities are moving toward planning based around “resilience”—a concept that moves away from purely after-the-fact response to include system-wide preparedness and risk reduction as well. Mr Leon adds that “the evolution in thinking toward resilience has been quite steep in the last few years. Before we would analyse disasters and challenges, but not from the perspective of urban systems.” He uses the analogy of the city as a healthy body. Any given system might be able, or need, to contribute in a different way to facing a diverse range of negative events. 
+
+A lack of agreement on precisely what resilience means reflects its novelty as a working model. A recent literature review found that some use the term to emphasise how well a city responds after a disaster,while others stress how well it absorbs shocks.Similarly, some argue that the goal after a shock should be to restore the situation preceding the event as quickly as possible and
+others to use the opportunity for improvement over the preceding status quo.
+
+Although these distinctions have some policy implications, in practice the basic concept
+is clear. As Mr Ijjasz-Vasquez says of the World Bank, “we are beginning to define
+urban resilience as the ability of households,communities and cities to bounce back.” This,
+says Mr Leon, is “completely complementary to urban security.”
+
+Nevertheless, Elizabeth Johnston, executive director of both the European and French Forums for Urban Security, believes that resilience is still not as integrated as it could be in urban safety considerations. There remains, she says, “a huge divide between planning for natural and man-made disasters.Cities have policies that are developed on the preparedness for the latter but not necessarily on climate change or, if they do have such policies, they are not co-ordinated.
+Only recently has terrorist preparedness started to include natural disasters and vice versa.” She adds that looking at these issues together within the context of overall resilience is certainly “an emergent trend, but not something ingrained” in urban governance.
+
+Although discussions of resilience tend to focus on preparedness for disaster, the benefits
+are far wider: a resilient city has the ability to perform when the world is watching. Yuriko
+Koike, governor of Tokyo, explains that, as her city welcomes the Rugby World Cup 2019™
+and the Olympic and Paralympic Games Tokyo 2020, resilience matters not only for how it
+enhances security but also for the improved ability it gives the city to address the challenges
+the many visiting fans and athletes might face should a heatwave occur.
+
+Previous editions of the SCI have included indicators relevant to the danger of natural and man-made shocks. In order to advance thinking on resilience, we have bolstered the number of indicators that deal with different aspects of it. The 2019 index measures for the first time things like the existence and speed of city emergency services; the existence of a disaster plan; the institutional capacity of those tasked with disaster response; the availability of disaster insurance; the ability to defend infrastructure against cyber-attacks; and the extent of hazard monitoring.
+
+Although they come from different pillars, for analysis later in this study, the resilience-related indicators have been recombined into three new categories: 
+
++ Damage and threat multipliers: damage experienced from shocks—specifically natural disasters and terrorism—as well as city attributes that can exacerbate the severity of shocks.
+
++ Relevant assets: the quality and extent of general assets that are useful in the
+event of a shock, such as different kinds of infrastructure, healthcare, emergency
+services and cyber-security awareness.
+
++ Preparation: specific planning and monitoring with an eye to preventing,minimising or preparing for shocks.
+
+The accompanying chart lists which indicators have been included, as well as showing the new
+indicators for 2019 that have been brought in specifically to understand resilience better.
+
+## SCI2019 resilience categories
+### Damage and multipliers
++ Percentage of computers infected
++ No. of biological, chemical, radiological weapons attacks
++ Deaths from natural disaster
++ Percentage living in slums
++ Number of attacks on facilities/infrastructure
++ Frequency of terrorist attacks
++ Severity of terrorist attacks
++ Threat of terrorism
++ Threat of military conflict
++ Threat of civil unrest
+
+### Relevant assets
++ Citizen awareness of digital threats
++ Public-private partnerships
++ Dedicated cyber-security teams
++ Access to healthcare
++ Quality of health services
++ Emergency services in the city*
++ Air transport facilities*
++ Road network
++ Power network
++ Rail network*
++ Community-based patrolling
+
+### Preparedness
++ Environmental policies
++ Disaster management/business continuity plan
++ Institutional capacity and access to resources*
++ Catastrophe insurance*
++ Disaster-risk informed development*
++ Cyber-security preparedness*
++ Hazard monitoring*
+
+注：*New indicator for 2019.
+
+# Insights from the index
+
+## The SCI2019 results
+
+The complete scores are as follows:
+
+**Figure 3:SCI2019**
+
+Four boxes across the following pages look more closely at the individual pillar results. The
+rest of the discussion in the main text focuses on insights for cities from the overall picture—
+an area that has received less attention in previous SCI reports.
+
+### Digital security
+
+#### The top five:
+
+1. Tokyo
+2. Singapore
+3. Chicago
+4. Washington, DC
+5. = Los Angeles
+5. = San Francisco
+
+**What these leaders have in common:** all get full marks on every digital security input
+indicator. As a result, they have low levels of infection by computer viruses and malware.
+
+**Where they differ:** the only thing that sets these cities apart is the percentage of residents
+with internet access, which ranges from 76% in Los Angeles and San Francisco to 91% in Tokyo.
+
+**Of interest:**getting security right before expanding access seems to be the best
+approach. Kuwait City has the highest level of internet access (98%), but weaknesses in privacy policy, citizen awareness of cybersecurity,and dedicated cyber-security teams help explain how between 20% and 30% of the city’s computers are infected and its low score on the presence of malware.
+
+### Health security
+
+#### The top five:
+
+1. Osaka
+2. Tokyo
+3. Seoul
+4. = Amsterdam
+4. = Stockholm
+
+**What these leaders have in common:** these leaders get the basics right, scoring well—including often getting full marks—for areas like healthcare access and quality, safe food, water and air, and speed of emergency services.
+
+**Where they differ:** a key difference is the much higher number of beds per head in the Asian cities in this list compared with European ones.Given similarities in terms of healthcare accessand quality, this may reflect differing medical cultures rather than a fundamental weakness in
+Amsterdam or Stockholm.
+
+**Of interest:** healthcare outcomes reflect the disease burden as much as quality of health systems: four of these cities score around 70 out of 100 for cancer mortality, and Amsterdam does much worse. The top cities on this indicator,
+those from Arab states, benefit from fewer cases of cancer rather than a superior ability to deal with those that arise.
+
+### Infrastructure security
+
+#### The top five:
+
+1. Singapore
+2. Osaka
+3. Barcelona
+4. Tokyo
+5. Madrid
+
+**What these leaders have in common:** Again,good policy is essential to become a leader in this pillar, with every one of the top five scoring full marks for their continuity management plans,pedestrian friendliness, institutional capacity and disaster-risk informed development.
+
+**Where they differ:** Beyond first place Singapore, the other cities have a mixed record on the quality of their infrastructure. Although none do poorly—the worst is Osaka’s 22nd place for its air travel links—each of these four lags
+behind leading peers in at least one area.
+
+**Of interest:** infrastructure is the area that sees the widest variations in scores—and therefore the greatest possibility for improvement.Singapore’s 96.9 points is the highest figure for any city in an individual pillar and Caracas’ 27.3 the lowest.
+
+### Personal security
+
+#### The top five:
+
+1. Singapore
+2. Copenhagen
+3. Hong Kong
+4. Tokyo
+5. Wellington
+
+**What these leaders have in common:** They are strong on personal security inputs, with all scoring between 92 and 96 points out of 100. In particular, each gets full marks for the
+policing-related indicators: level of engagement,community-based patrolling and use of datadriven
+techniques.
+
+**Where they differ:** those trying to reach the top of this pillar face different challenges. For Hong Kong and Tokyo, corruption and organised crime are still a problem, although they are typically better than in most other index cities.
+For Wellington, the most visible weakness in the index is illegal drug use, for which it comes 56th. 
+
+**Of interest:** citizens don’t look at policies but at results. The index’s perceptions of safety score correlates closely with levels of violent and petty crime, but shows no statistical link to input scores.
+
+At this overall level, the 2019 leader, for the third time running, is Tokyo, with a broad array of strengths. It ties for first place on indicators as diverse as low crime levels (both violent and petty), infrastructure designed to withstand
+natural shocks, and low risk of computer malware. Meanwhile, its lowest pillar score is still a very respectable fourth place (for both infrastructure and personal safety). Mr Tomer
+is not unusual in noting that “by many accounts, Tokyo is one of the world’s best run cities.” Governor Koike, adds that safety has been a long-term, leading focus of the metropolitan government for many years, and that Tokyo has not finished its innovation in this area (see box).
+
+## Q&A with a city leader—Yuriko Koike, governor, Tokyo
+
+*The Economist Intelligence Unit: Tokyo has come first in The Economist Intelligence Unit’s Safe Cities Index in 2015, 2017 and now again in 2019. Why do you think Tokyo has been so successful?*
+
+**Governor Koike:** Given that earthquakes are endemic to Japan and we are also witnessing major climate change around the world, it is utterly critical that Tokyo protects residents and the city from natural disasters. To do so, we have pursued a range of reforms, both on the infrastructure and the intangible side, expending a large budget. Tokyo’s having received high acclaim as a safe city results in part from the steady and consistent way we have pushed forward these initiatives over the years.
+
+*The Economist Intelligence Unit: Where are some of the city’s largest current efforts around safety and resilience?*
+
+**Governor Koike:** Last year, we had heavy rains. Flooding and water damage caused many incidents involving landslides and the loss of human lives in Japan. Tokyo is surrounded by several rivers, so there are also infrastructural concerns to consider in such situations.
+
+We therefore created a vast underground reservoir. It is quite a cost-intensive project, but if you take into account the much greater cost of flood damage—including loss of life and assets—as well as the need to rebuild thereafter, taking preventive measures is ultimately more cost-effective.
+
+Another issue is the profusion of utility poles around Tokyo. We are moving forward to bury these. The tangle of cables is not attractive,and they can topple in earthquakes, impeding rescue vehicles. As for infrastructure including buried objects like old water pipes, we have to take various measures to replace them or shore them up.
+
+*The Economist Intelligence Unit: Recent research indicates that social connections and voluntary action play a major role in enhancing the safety of a city. What is Tokyo doing to respond to this insight?*
+
+One idea is that of “self-help, mutual help and public assistance.”The hope is that residents should take the initiative to help themselves when needed. And they should then work together to help others. The administration should be there to provide backup.
+
+In terms of self-help, we are promoting the use of rescue kits that residents can have on hand for emergencies, including spare water, rations, portable toilet equipment and the like for use in flooding, earthquakes, or other disasters. Mutual help refers to local residents practicing and training together and considering
+how to provide relief for, and by themselves in the event of an earthquake. Public assistance is what we in the administration do, as discussed earlier, such as projects to reduce the impact of flooding, and to educate the public on disaster prevention.
+
+We recently developed something called Tokyo My Timeline. This functions as a kit and contains equipment to prepare for a flood.This presents a timeline of response efforts to review: when flooding or sudden heavy rains occur, what to do, in what order. Children use stickers in this handbook to learn, as though playing a game,
+what the right response is. This kit is designed to help residents learn independently how a proper response should be carried out.Teaching this in schools is effective, because the children go home and share what they learned with their family, which helps disseminate the information further.This is just one of several booklets we are distributing to help people know what to do in the event of a disaster.
+
+Beyond disaster response, each region in Tokyo has spent many years developing fire departments both at the administrative level,through the Fire and Disaster Management Agency, and through volunteer firefighters’ groups. This allows local residents to be aware of the location of thesources of water and practice to a high degree of precision using hoses to draw water in the event of a fire. Sometimes they have local contests to further refine their skills, with the volunteer groups and agency working together to greatly increase local safety.
+
+Along with Tokyo, other Asia-Pacific cities, as in the past, dominate. Singapore and Osaka come second and third, while Sydney and Melbourne also make the top ten. Although Hong Kong has dropped out of this group since 2017, Seoul has joined it, coming tied for eighth. Rounding out the leaders are two from Europe, Amsterdam and Copenhagen,and two from North America, Toronto and Washington, DC.
+
+It would be wrong, though, to argue from these results that geography, or accompanying cultural differences, have a clear effect on urban safety outcomes. After controlling for other factors that strongly correlate with our overall and pillar results, which are discussed below, a city’s region did not have any statistically significant relationship with SCI2019 performance. Tokyo, Singapore and Osaka are not safer because they happen to be in Asia, but because of the specific urban environments their residents and officials have built.
+
+## Safety is indivisible
+
+Going beyond the winners and losers in the index tables, a wider look at the results yield several key insights for policymakers and urban stakeholders. These begin with the nature of city safety itself.
+
+As discussed above, different kinds of safety are relevant even when walking down the street. At first sight, the most obvious thing about these different kinds of security is that they rely on different providers: someone might call the police for a personal security issue, say, but a doctor for health security.
+
+The scores in the four index pillars, though,turn out to be closely correlated. Just how intertwined different kinds of security are is “definitely not commonly or widely understood” among the public or policymakers notes Ms Johnston.
+
+A look at the overall standings shows that the ranking of any given city in a particular pillar tends not to vary greatly from its ranking in other pillars. In other words, cities tend to be similarly good, mediocre or poor across all aspects of safety rather than leaders in one area and laggards in another. The accompanying graph, comparing the overall scores for personal and health security, shows just how closely these are related, suggesting that we simply go to the police for one and the doctor for the other is too simplistic.
+
+This statistical link is no accident. In London,for example, the UK’s Mental Health Crisis Care Concordat results, among other things,in police working with other appropriate agencies to get the best care for individuals experiencing a mental health crisis, who might previously simply have been arrested if they had threatened the safety of others. However,Lord Bernard Hogan-Howe, recently retired as commissioner of London’s Metropolitan Police,explains that one reason for fewer deaths from violence or accidents in many cities, quite apart from improvements in policing or other services, is better emergency healthcare.
+
+**Figure 4:Health security verus personel security**
+
+The personal-health safety link is the rule,not the exception. Infrastructure scores also correlate closely with those of other pillars.This is a connection that Mr Tomer notes “is pretty typical that folks miss”, except in obvious cases of massive infrastructure failure. Fumihiko Nakamura, vice-president of Yokohama National University in Japan, points out that urban infrastructure shapes lifestyles,including things as basic as whether one walks or drives to work. As a result, “infrastructure either propels, or detracts from, one’s health”,and therefore the health security of many citizens. Similarly, note several interviewees,the design of public places can have a substantial impact on the personal safety of those using them.
+
+Perhaps the most underappreciated—and therefore particularly noteworthy—connection
+is that between digital security and other fields. Gregory Falco, cyber research fellow at Stanford University, observes that “digital and physical security are very closely entwined.Nevertheless, it is hard for citizens and governments to align the two things.”
+
+The index data make the connection abundantly clear. As the three charts show, our
+digital security scores correlate closely with those of the other pillars.
+
+**Figure 5:Safety is indivisible**
+
+Correlation does not prove causation, and the relationship between different kinds of security goes both ways. Nevertheless, part of the connection is a frequent reliance of other pillars on digital security. Mr Falco notes that the operational technologies behind much of the “urban critical infrastructure that makes life function are vulnerable to attack, which would carry immense economic and physical
+consequences.” The health pillar is equally reliant, as the WannaCry ransomware attack on the UK’s National Health Service made all too obvious, leading to the cancellation of 19,000 medical appointments from May 12th to 19th, 2017.
+
+Mr Lam puts the importance of digital security succinctly: “Everybody depends on data to
+do business, so you have to make sure every business continuity plan involves a plan for
+IT systems to handle a disaster. Our cybersecurity drills are related not just to digital
+
+>New technology and non-digital security
+
+Technology plays an obvious role in digital security,but new developments in artificial intelligence (AI) and robotics are opening some intriguing new possibilities in other pillars.
+
+In healthcare, technological advances occur all the time, but one of the most exciting fields currently is the application of AI to data in order to improve public health. This can enhance health security in ways not previously possible and restricted only by the imagination. At the national level, for example, the use of rainfall forecasts, population density data and other relevant information has helped aid agencies to predict cholera outbreaks in Yemen with over 90% accuracy, allowing them to engage in prevention and pre-position supplies.10 At the urban level, Las Vegas uses AI to analyse Twitter posts in order to greatly improve the effectiveness of its restaurant health inspections.
+
+Adie Tomer, who leads the Metropolitan Infrastructure Initiative at the Brookings Institution,
+sees the use of smart technology as a way to improve infrastructure capacity and safety as well.
+“These days, the easiest wins come from focusing on operational improvements, ideally through
+new data inputs.” He cites automating water pipe maintenance as a much less expensive way to improve capacity and reliability than building out new capacity. Similarly, smart transportation
+solutions have great potential to improve the use of existing roads: in Moscow, the adoption of
+intelligent traffic and parking management reduced congestion by over 20%, despite an increase in car ownership.
+
+Personal security is also seeing innovation.One of the more intriguing is Dubai’s new robot
+police officers. These will patrol malls and tourist locations. In many ways they have the kind of capacity that would already be available on a mobile phone app, such as the ability to get safety information, report crimes, speak directly with human police through voice communication
+and pay fines. However, not everyone, especially tourists, is likely to have downloaded such an app,making the placement of these robots in public places valuable. Moreover, these police robots will also be collecting information—on traffic congestion in the first instance. Although likely to be expensive in the initial development stage, these new officers may prove to be cost effective.Dubai hopes that they will allow the reassignment of existing human police to areas where the latter’s efforts would be more valuable.
+
+The robots, though, point to an important issue of technology deployment. Robocops have the
+potential to be used for repression as well as true citizen safety. These AI engines and robots can be very valuable tools to enhance urban security. It will depend on how humans deploy them.
+
+security but to business continuity and disaster preparedness. These are all interrelated.”
+Governor Koike agrees: “cyber-security encompasses everything from corporations, to power plants, to even outer space.” Accordingly,it requires extensive stakeholder co-operation.
+
+Technology, though, is not only a potential vulnerability. Digital security can be a
+selling point. Ms Johnston explains that the Municipality of Rotterdam has invested heavily
+in cyber-security not only for its own benefits but so that its port—Europe’s busiest, with
+all the infrastructure that entails—remains a safe place to do business. Looking further, the
+linkage between digital security and other kinds reflects the important role that technology
+itself can play in every index pillar (see box).
+
+The message from the data is not that digital security, or indeed technology, is the silver
+bullet for urban safety.Instead, the index results indicate that a safe city is one where
+efforts by citizens, stakeholder groups and authorities in a wide range of fields to reduce
+and protect against various kinds of risks mutually re-enforce to create a generally
+secure environment. “Security is indivisible” is a truism in international relations. It applies
+equally to urban safety. 
+
+**What sets cities apart?**
+
+A striking feature of the overall survey results,and those within pillars, is the clustering of
+results near the top. The accompanying spider chart, which maps the results of the cities in
+first, 20th, 40th and last place overall, shows the relatively small point differences between
+the top cities and the larger ones among those finishing lower down.
+
+**Figure 6:City comparison overview**
+
+This suggests that the differences between cities near the top, however important, are
+much smaller compared with those further down the table. A closer analysis of the SCI2019
+results indicates two key factors associated with urban safety that explain this clustering.
+The overall scores correlate very closely, and independently, with income and transparency.
+
+The accompanying chart shows the correlation between the best fitting formula using both
+variables compared with the real overall scores. In other words, cities that have
+achieved a certain standard of development and governance tend—whatever their distinct
+strengths and weaknesses—to achieve a high basic level of security. Those that are less
+developed or have weaker governance struggle to reach this underlying degree of safety that
+set apart this cluster of leaders.
+
+#### Wealth matters, but sometimes in unexpected ways
+
+Every previous SCI report has remarked that cities in high-income countries do
+better on average than those in lower-income states. In earlier years, apparent anomalies
+existed: some cities in upper-middle-income countries did better than certain others
+in high-income countries. More localised data, however, eliminate the apparent problem, because the high-performing cities in middle-income countries have markedly higher per-head income than their national figures. Across the board, overall SCI results correlate extremely closely with income per person in cities.
+
+**Figure 7:Difference narrow near the top**
+
+One obvious explanation is that certain elements of safety benefit from investment.Lord Hogan-Howe notes, for example, that “you compromise on the cost of policing to your danger. There is a level of investment you have to make for a quality product.” He elaborates that poorly paid officers face a greater incentive to become corrupt, thereby undermining the entire justice system. Similar links exist in infrastructure, Mr Tomer explains, many “capital investments are really expensive.It is asking a lot to, say, just build a new train line.” Indeed, robust budgets are an important element of success in various SCI indicators,
+such as doctors and hospital beds per head, or the use of data analytics to fight physical and
+cyber-crime.
+
+The availability of resources for safety, however,is only part of the story. A problem of at least equal importance that our index data reveal is that, where money is scarcer, so too is policy ambition. City income per head correlates very closely with the SCI aggregate index
+input scores, which largely measure policy and effort. This might be understandable if less
+economically developed cities spent less on the most expensive inputs. However, removing
+the higher-cost ones mentioned above does not affect the correlation. Those cities with less
+money are not always spending some of what they can afford in the field of security.
+
+Figure 8:Three close companions:wealth,transparency and safety
+
+Such results do not surprise Mr Badiane.Speaking of Africa’s large cities, he says that the main driver of insecurity is the extent of informal settlements. This arises not from a growing population per se, he adds, but poor or insufficient planning. “It is not acceptable.We have a lot to do, but the number one priority is improved urban planning and better city management.”
+
+Nor do public policy initiatives that enhance safety need to be expensive. Potential easy wins exist in each SCI pillar. Regarding digital security, Mr Falco says that the “most basic steps don’t require capital but education and time to create a cyber-security culture.” This involves things as straightforward as locking your computer when you leave the room and not clicking on links from people you don’t recognise. In health, adds Mr Bollyky, along with challenges in developing country cities, possible advantages also exist. In much of Africa, for example, smoking is low by global standards, while South-east Asia and India still enjoy low obesity rates, at least relative to Western nations. “To the extent you can encourage healthier behaviours early, you might still be able to head off some of the worrisome outcomes that we see in non-communicable diseases in developed countries,” Mr Bollyky says.
+
+Certain low-cost infrastructure adjustments can also enhance safety. Mr Ijjaz-Vasquez
+reports that in some places “painting lines on a street does not cost a lot” but can reduce
+accidents markedly, while making sure that the police and ambulance use the same terminology to describe accidents, which is not the case everywhere, can make the response far more effective. As for enhancing personal security, many interviewees mention that simply making sure public places are well-lit and designed can work. Ms Johnston notes that “the cost of some of the most effective urban rehabilitation interventions that lead to better security are limited,” and especially cost effective when done to address the specific practical needs of local residents.
+
+Each one of these might seem small but, as Mr Falco puts it, “enough quick wins will add
+up.” Economic growth can help developing world cities close the safety gap with wealthier
+ones, but, first, many of the former must decide to engage with the relevant issues more
+energetically and creatively in the many places where they can.
+
+#### Transparency matters at least as much as money
+
+The level of city government transparency—measured using the World Bank’s national Control of Corruption figures as a proxy—correlates about as closely with the SCI scores as does income per head.
+
+Mr Badiane argues that transparency and accountability matter more than income. He recalls that when, 20 years ago, he helped initiate a safer cities programme at UNHabitat,“we started by designing it as a poverty programme. We then realised that we were on the wrong track. Security is a governance issue.”
+
+As with wealth, some of the ways that transparency, accountability and good governance improve safety are obvious. Mr Tomer notes that, given the cost of major infrastructure, “almost all over the world, the potential for bribes is high. If you don’t have good governance, it is a perfect area to be corrupt.” The resultant corner cutting can prove all too dangerous.
+
+Other ways that safety and transparency interact are less intuitive but equally important.
+Dr Agarwal says that “good governance is more crucial than aggregate wealth for improving
+the equitable reach of any public goods and services such as health and health security.” A
+recent Lancet study shows the extraordinary effect that this can have. It found that the
+length of time a country had been a democracy and the quality of its democratic experience
+have a profound effect on certain aspects of health. On average, a transition to democracy
+from some other form of rule improves HIV-free life expectancy by three years in the
+subsequent decade compared with no political change.15 Mr Bollyky, the lead author, explains
+that the experience of democracy, presumably through the long-term accountability it brings,
+“ends up mattering more than does GDP for success against certain [health challenges] such
+as cardiovascular disease, cancer, car accidents and tuberculosis.”
+
+In the area of public order, transparency and accountability also turn out to be a boon. Lord
+Hogan-Howe notes that, over his 40-year career, simple steps like installing closedcircuit
+television cameras in police stations and recording interviews with suspects have raised the quality of police work substantially,meaning that the public are better served.“If you improve accountability in a way that demonstrates integrity, that has a profound effect” on community trust and therefore the ability of the police to protect citizens, he adds. Ms Johnston agrees: “When police focus on accountability, you see higher levels of citizens reporting crime as well as supporting and facilitating police work. There is a direct correlation between being more transparent and higher levels of security itself.”
+
+Beyond specific examples, notes Mr Ijjaz-Vasquez, “good transparency means more access to information. The more citizens understand the dangers they are facing,the more they can make more appropriate decisions at the household level, and make sure the matter is a priority at the next election.”
+
+Indeed, the information need not even come from the governments of the cities involved,
+so long as it is accessible. Mr Bollyky points to the US Embassy in Beijing simply measuring
+and publishing previously unrecorded air pollution levels as an important impetus to improvements there. Individuals can also play a role in expanding transparency. The
+mobile phone app Saftipin crowdsources what it calls “safety audits” from female users,
+which score a particular location on lighting,openness, visibility, crowd, security, overall feel and several other metrics. It then aggregates these and combines them with other data to
+recommend the safest routes between any two points within the city. In New Delhi, Saftipin’s
+first city, authorities also used the data to light over 7,000 identified “dark spots”, and police adjusted their patrolling to spend more time in areas that were perceived as dangerous.
+
+### A look at SCI trends: Urban safety is a marathon, not a sprint
+
+In specific circumstances, such as war, civil unrest or natural disasters, which undermine
+public order and destroy infrastructure, city safety can decline rapidly. The SCI data,
+however, indicate that it is much more common for change to take time in the
+field of urban safety. Direct comparisons of scores between the 2017 and 2019 indexes are
+impossible given the changes this year (see box on Washington, DC). However, an in-house
+analysis that compared what was the same between the two years found little change in
+the reported results. Moreover, many shifts came from finding improved information
+sources rather than observable change in the cities themselves. This does not mean
+improvements did not occur, simply that the shifts were few and often small, or at least hard
+to detect.
+
+This comes as no surprise to experts consulted for this study. As Mr Leon puts it, “building a
+city is a permanent thing. Improvements can take a long time.” The brakes on speed differ
+with different kinds of security. They are most obvious in infrastructure. This, Mr Tomer
+explains, “operates on time lines that are longer than typical human ones. If you are in London,
+for example, as you go closer to the Roman core, the right of way was laid out 2,000 years
+ago.” Similarly, the water system relies on tunnels dating to the 19th century. For better
+health security, meanwhile, says Mr Bollyky,“building out improved primary or preventative
+care in developing world cities can be done a lot faster than a citywide sewer system, but still
+can’t be done overnight.”
+
+
+Improving personal security also involves some longer-term challenges, such as building
+and maintaining trust with city residents.This can take time but is essential. Lord
+Hogan-Howe notes that “most crimes are still solved by someone [in the community]
+telling the police who did it.” Similarly, notes Mr Lam, the stakeholder co-operation
+needed for better digital security relies on building trust. “Without it,” he warns, “you
+will not be successful.” 
+
+Of course, some quick wins are possible. Mr Ijjaz-Vasquez says that “things like improving the lighting, cleanliness and security presence in parts of a city can change situations in a matter of weeks or months, as can cleaning drainage facilities. Stopping informal settlements in high-risk areas can take months to years,” and greatly reduce the risks from natural disasters.
+
+
+Even doing this much, though, requires that “cities think security is an important topic,”
+Mr Ijjaz-Vasquez adds, not just in the abstract but as part of the ongoing political agenda.
+Maintaining this focus through subsequent electoral cycles and amid the claims of myriad political issues is the fundamental challenge and the key to progress in both the short and
+long term. What Dr Agarwal says of healthcare and infrastructure applies across most aspects
+of security: “Systems need to be invested in so that they steadily reach the most vulnerable
+and needy parts and populations of the city. It takes perseverance.”
+
+#### A look at what has, or has not, changed in Washington, DC
+
+Reports that track data across the years will, from time to time, warn that methodological changes make comparisons with previous data invalid. This is the case for Safe Cities Index 2019 (SCI2019). A close look at one example, Washington, DC, helps show why.
+
+At first, there appears to be signs of clear progress.
+
+The city went from 80.4 points overall in 2017 to 87.6 in 2019, explaining its rise from 23rd to 7th place among index cities. A comparison seems to indicate visible gains, especially on pillar outputs. 
+
+Has the US capital become safer? Our data cannot answer that for two reasons. First, we
+are measuring some things in a new way, making improvements on the previous methodology. The
+most relevant cases of this are as follows:  
+
+**Figure 9:Washington,DC,pillar input and output scores**
+
++ In 2017 the index looked at the number of vehicle accidents per million inhabitants. A review, however, found that the data available from different cities was not mutually comparable. Accordingly, in 2019 we switched to road traffic deaths, for which more robust information were available.
+
++ The source used for identity theft figures from 2017 itself warned this year that those
+from the US were—because of that country’s more stringent reporting requirements—almost certainly unsafe to compare with those in other countries. SCI2019 therefore replaced
+this indicator with one measuring exposure to malware.
+
++ Finally, in 2019 the SCI shifted from crude rates of cancer death to ones standardised to
+remove the impact of differences in population age. These are generally considered the best
+metric for international comparisons.
+
+Washington, DC, scored substantially higher on these better metrics: a relatively low number of
+road traffic deaths yielded a 92.2 score, compared with 0 last year because of a large number of
+reported accidents; its 100 points in the malware metric was noticeably higher than its 85.5 for
+identity theft; and its 53 for age-standardised cancer mortality, while only a mid-range score,
+was much better than the 0 it got in 2017 for its crude rate.
+
+The addition of new, resilience-related indicators also helped the city’s overall score. It earned 100 points for each of: emergency services in the city; air transport facilities; institutional capacity and access to resources; catastrophe insurance;disaster-risk informed development; cybersecurity preparedness; and hazard monitoring.
+
+Finally, use of better data sources available in 2017, which our researchers did not find until
+this year, led to big gains in the scores for the number of hospital beds per head, public-private partnerships for cyber-security, and the rate of illegal drug use.
+
+Two further factors impede calculation of a precise numerical impact for these changes. First,
+indicator weightings used to aggregate scores have changed. Second, because so many scores
+reflect the relative performance of urban areas,the replacement of four 2017 cities with new ones can have an impact: Lagos’ low life expectancy, for example, changes the scale of that metric, driving up the points given to other cities, even if their life expectancy had not changed.
+
+That said, adjusting the weighting of the scores in each year’s index to remove all new indicators and those that saw substantial change gives some idea of the underlying shift in the security performance of Washington, DC. The resultant overall scores for 2017 and 2019 are less than two-thirds of a point apart.
+
+This does not mean that nothing has changed in the city—only that the shifts that we have
+measured consistently are slight. Washington, DC,does better in SCI2019 than in the past because
+our measures and methodology give a better understanding of its strengths and weaknesses.
+
+**Q&A with a city leader—Victor Lam, government chief information officer, Hong Kong**
+
+*The Economist Intelligence Unit: Unlike some other fields of urban security, digital risks can come from anywhere. How should a city deal with the international nature of the threat to digital security and what practical challenges does it bring?*
+
+**Victor Lam:** In Hong Kong, because we are quite an open city, digital security threats come from everywhere around the world. We have to put in place multiple kinds of security measures so that we are better protected. We have accordingly adopted a very transparent approach. We
+network with various operators in the city and last year created a cross-sector information sharing platform—Cybersechub.hk—to share intelligence.Cities with fewer resources can also do similar things. Information sharing need not entail a large amount of resources and should be done everywhere in the world.
+
+We also put a heavy emphasis on raising awareness.The WannaCry attack is a good example.
+When it broke out, many cities encountered big problems. When we came across the news of
+what was happening in other cities—I remember it was a Saturday morning—we immediately
+communicated the information to our partners including the Hong Kong Computer Emergency
+Response Team (HKCERT) and the police force.This helped raised public understanding.
+
+We also issued a press statement, then a public forum was held on the Sunday and, on Monday, I
+took part in a press conference and conducted several telephone interviews. Throughout, we
+raised public awareness and published a lot of alerts to government departments to ensure
+they had taken appropriate measures. HKCERT also offered a hotline for the public and small
+businesses. Although WannaCry had a major effect elsewhere, Hong Kong was quite well protected.
+
+*The Economist Intelligence Unit: How do you expect the threats to digital security to evolve over the next few years?*
+
+**Victor Lam:** The Internet of Things (IoT) will bring big changes. At the moment, organisations more or less focus on end-point security, but with so many IoT devices the vulnerability will be extensive. We have to ensure that we put enough emphasis on their protection, especially IoT devices used for infrastructure. We increased our emphasis on IoT
+security recently and have asked HKCERT to step up research into, and encouragement of, best
+practice measures.
+
+*The Economist Intelligence Unit: Although we look at different domains of security separately in the Safe Cities Index, what do you see as the key links between digital security and other areas?*
+
+**Victor Lam:** I fully agree that they are closely related. Critical infrastructure security also includes digital security. The importance of this link will increase now that we are talking about smart cities because in a smart city there will be much more digitised critical infrastructure. For example,in Hong Kong we are installing smart lampposts with numerous smart devices in place. If we do not implement digital security protection in them from the start, beginning with the design stage, it could lead to substantial problems.
+
+*The Economist Intelligence Unit: What are some of the new initiatives that Hong Kong is engaged in to improve digital security?*
+
+**Victor Lam:** There are several aimed at making the right interventions in the right places. To begin with, for the public, a government initiative will provide electronic ID free of charge starting from [the] middle of next year, as a way to establish more trust through secure identification.
+
+Financial support is important so that smaller organisations will be more willing to step up.
+We have doubled the matching funds under the Technology Voucher Programme to HK$400,000
+to help them upgrade systems. These upgrades can include better security.
+
+Finally, for those with .hk domain registrations, we are engaging the Hong Kong Internet Registration Corporation, which manages that domain name. It will now provide those using it with free technical support on how to reduce vulnerability. Here, it is a case of not doing it ourselves, but engaging the right party to provide the right advice.
+
+# The SCI cities and resilience
+
+The SCI2019 includes new indicators specifically related to resilience. These, when
+combined with relevant indicators carried forward from previous versions of the index,
+paint a clear picture of how well index cities are doing in this field.
+
+## The challenge in aggregate 
+
+Resilience is about avoiding, mitigating or responding to potential shocks. By definition,
+the events—including natural events or technological accidents of disastrous proportions, as well as man-made violence from terrorism or war—are fortunately rare.Otherwise, they would become part of normal life and urban residents would adjust. For example, except in extreme years, Venetians have personal, neighbourhood and municipal mechanisms to cope with their city’s regular periods of acqua alta in winter; in most other urban areas, knee-deep water in the
+main square and central streets would be a disastrous flood.
+
+In recent years, the aggregate toll of shocks on SCI cities has been much less than the
+attention that such events receive. According to data gathered for the index, on average
+across the 60 cities during the last five years natural disasters have killed about 1.7 people
+per million population annually. That is roughly a tenth the rate of female homicide in these
+cities. The loss to terrorism is even lower.The total number of deaths and injuries per
+year over the past decade in all the SCI cities number killed annually in pedestrian accidents
+in Cairo alone. This is not to minimise the pain felt by those who lose loved ones to natural
+and man-made disasters, but simply to put the numbers into perspective with the other
+challenges facing cities.
+
+Developing resilience against such shocks despite their relatively low toll is essential for
+several reasons. First, as Lord Hogan-Howe notes about terrorism, it is “rare. Each death in
+a terrorist attack is a tragedy. However, many more people are the victim of homicide each
+year and around twice as many again die on the roads. Terrorism is terrifying because it
+is intended to be terrifying. People need to be reassured. It falls into a category of risks
+that cannot just be measured by the volume of events.” He adds that, because of media
+coverage, terrorism in any given city is likely to be disconcerting to residents of other locations. Similarly, although lacking the political intent,news of tsunamis, earthquakes and floods elsewhere remind those in other cities on coasts, near fault lines or in low lying areas of their vulnerability.
+
+Second, although these are low-frequency events, they are potentially very high impact.
+For example, Mexico City has had fewer people per head die from natural disasters than the
+SCI average over the past decade—resulting in its 92-point score on that indicator. During
+the past century, though, it has suffered from major earthquakes (over 7.0 on the Richter
+scale) roughly once every 30 years. These can be devastating: estimates for the number killed
+in 1985 typically range from 10,000 to 40,000. In such circumstances, a rapid, coherent response
+can make all the difference. 
+
+Finally, concern is growing that the frequency of adverse events will rise. In Mr Van Begin’s experience, “the impact of climate change has become a huge driver for policymakers at the urban level to act.” Mr Ijjaz-Vasquez agrees: “The frequency and intensity of natural disasters is moving to the fronts of minds of citizens and local administrations. Cities are getting more serious.”
+
+The problem is deciding on what to prepare for.Mr Ijjaz-Vasquez continues, “We know certain
+things about climate change, but once you move to the city level, uncertainty begins to be
+very large. If you are preparing infrastructure for the next 50 years, you know it may be
+bad, but you don’t know how bad.” This is why resilience emphasises the need for having
+flexible assets available to address shocks and plans to deal with them. As Mr Badiane puts it,
+“Disasters: you cannot control them. The only thing you can do is be ready.”
+
+## Risk and readiness in the SCI:Wealth and transparency redux
+
+The SCI does not have a specific resilience score. Here, though, we recombine relevant
+individual indicators into three useful categories described in detail in a previous
+section: damage and threat multipliers;relevant assets; and preparation.
+
+As noted above, the actual losses from shocks over the past decade has been comparatively
+small, so the damage and threat multiplier score is an indication of relative rather than
+absolute risk. Most cities nevertheless score above 75 out of 100, which the SCI classifies
+as very good. That said, the extent of damage from shocks and the existence of particular
+aggravating dangers decline markedly with wealth. Developed cities are certainly not
+immune to danger: Wellington, Paris, London and New York have all seen major terrorist
+atrocities in the past two decades. In San Francisco and Los Angeles, “the Big One” is
+the local euphemism for an expected large eruption along the San Andreas Fault in the
+coming years or decades. Nevertheless, the greater risk from shocks appears to be in
+the world’s emerging mega-cities such as Karachi, Dhaka and Lagos. Mr Bollyky notes
+that “many low- and middle-income cities face the potential for catastrophic risk; they are
+exposed to climate change and insecure in health terms.”
+
+Given this risk distribution, it is unfortunate that income and transparency are also the correlates of both having relevant assets in place.
+
+**Figure 10:Wealth and transparency redux**
