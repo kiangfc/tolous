@@ -7,9 +7,16 @@ categories: []
 tags: []
 ---
 
+【英国经济学人智库自2015年开始发布“全球安全城市指数”，至今已发布2015年、2017年、2019年３个版本，入选城市从2015年的50个增至2017年的60个，2019年又对60个城市进行个别调整。指标数量从2015年的44个增至2017年的49个，2019年继续增至57个。每一版“全球安全城市指数”都有不同的关注点。2015年的“全球安全城市指数”力求全面、客观、准确地评估数字时代的城市安全，数字安全的引入是其最主要的特征。2017年新增的指标主要针对恐怖袭击带来的安全问题，以及政治冲突或社会动荡带来的不安定因素，关注点延伸至城镇化进程中不断扩张的城市人口引发的问题。2019年的“全球安全城市指数”聚焦于评估城市应对风险灾害的预防准备能力，形成了全面完善的城市韧性评估框架。评价指标分为数字安全、卫生安全、基础设施安全和人身安全４个维度，每个维度的指标又分为“投入”和“结果”两大类。“投入”类指标侧重于考察城市在政策、人员、资金等方面对提升城市韧性所做的努力，“结果”类指标反映的是城市安全的客观现状。两者结合，不仅能够反映各城市天然的易受风险程度，还能够反映韧性基础设施和风险预防准备等情况。(卢溪.基于“全球安全城市指数”的上海韧性城市建设思考.)】
+
+【安全城市指数有两个方面的指标，一个是输入指标，一个是输出指标。输入指标包括政策方面，输出指标主要是衡量效果的指标，包括一些KPI，比如交通事故的伤亡率、犯罪率以及灾难造成的人员伤亡率等。在绝大多数情况下，衡量一个城市的安全性都主要是参考输出指标，但是通过加大对输出指标的考察可以尽可能确保政策制定者能为将来制定恰当的政策。
+
+报告中所涉及的排名是主要根据数字安全、卫生安全、基础设施安全和个人
+安全四个方面进行评分，具备一定的典型性和参考价值。**第一，数字安全**。主要包括城市的隐私政策、公民对数字威胁的意识、是否拥有专门的网络安全团队以及本地恶意软件威胁的风险等指标。一些发达国家中排名比较靠前的城市都有一个强大的网络安全法，有相对完善和形成体系的隐私保护政策，市民对网络的威胁意识普遍存在比较强的认知度，还有专门的团队保护网络安全。比如，新加坡政府就已经成立了网络监视部门。**第二，卫生安全**。重点关注环境政策、医疗保健、安全食品、空气和水质以及预期寿命。城市安全的建设需要有力的环境政策，易于获得的医疗服务，可靠的紧急救援服务。在环保方面，日本从空气污染到废物处理都制定了严格的规定，有环保的监测政策，也有对于水质进行的监测。医疗要有比较好的覆盖，日本在东京有非常高标准的医疗服务。可靠的紧急救援服务是关键，这些排名靠前的城市出现了紧急情况，响应时间不到10分钟。**第三，基础设施安全**。主要着眼于交通状况和交通安全、行人友好与否、灾害管理以及道路和电力网络的可靠性等指标。排名前面的城市有共同的特点，它有强大的道路安全法，另外有超速和违章的摄像头，还有方便行人的街道，这是和城市规划相关的。城市规划也做得非常好，大家走路的时候非常安全。很好的业务连续性可以不断地更新他们的城市安全建设计划。政府在制定综合战略的同时，只有充分考虑各组织机构、企业等具体情况，认识上达成高度的统一，行动上才能保持一致。**第四，个人安全**。重点考察警务力量分配、犯罪数据获取、管制和执法以及刑事司法系统的有效性。这也是城市安全建设中需要重点关注的方面，警察要有非常好的系统能支持大家的生活，能有数据驱动的技术防止犯罪和预防犯罪。数十年来，新加坡类似抢劫、偷盗等传统犯罪的犯罪率极端低下，这让警方有了更多精力应对网络犯罪，该国旨在建设数字安全的“智慧城市”。（斯特凡诺·斯库拉蒂.关于安全城市指数的研究.中国应急管理,2020,12.）】
+
 # 关于报告
 
-2019年《安全城市指数》是经济学人智库发布的报告，由NEC公司主办。该报告基于该指数第三迭代（the third iteration of the index），该指数对60个城市的57项指标进行排名，涵盖数字安全（digital security），健康安全（health security），基础设施安全（infrastructure security）和人身安全（personal）。
+2019年《安全城市指数》是经济学人智库发布的报告，由NEC公司主办。该报告基于该指数第三迭代（the third iteration of the index），该指数对60个城市的57项指标进行排名，涵盖数字安全（digital security），卫生安全（health security），基础设施安全（infrastructure security）和人身安全（personal）。
 
 # 执行摘要（Executive summary）
 
@@ -315,80 +322,80 @@ SCI2019年核心和指标
 
 ### Inputs
 + Privacy policy 隐私权政策
-+ Citizen awareness of digital threats 公民对数字威胁的认识
++ Citizen awareness of digital threats 公民对数字威胁的意识
 + Public-private partnerships 公私伙伴关系
 + Level of technology employed 采用的技术水平
-+ Dedicated cyber-security teams 专门的网络安全小组
++ Dedicated cyber-security teams 专门的网络安全团队
 
 ### Outputs
-+ Risk of local malware threats 本地恶意软件威胁的风险
-+ Percentage of computers infected 受感染的计算机百分比
-+ Percentage with internet access 可上网的百分比
++ Risk of local malware threats 本地恶意软件威胁风险
++ Percentage of computers infected 计算机病毒感染率
++ Percentage with internet access 互联网接入率
 
 ## Infrastructure security 基础设施安全
 ### Inputs
-+ Enforcement of transport safety 运输安全的实施
-+ Pedestrian friendliness 方便行人
++ Enforcement of transport safety 运输安全执法
++ Pedestrian friendliness 行人友好设施
 + Disaster management/business continuity plan 灾害管理/业务连续性计划
 
 ### Outputs
-+ Deaths from natural disasters 自然灾害造成的死亡
-+ Road traffic deaths 道路交通事故死亡人数
-+ Percentage living in slums 居住在贫民窟的百分比
-+ Number of attacks on facilities/infrastructure 攻击设施/基础设施的次数
-+ Institutional capacity and access to resources 机构能力和获得资源的机会
++ Deaths from natural disasters 自然灾害死亡人数
++ Road traffic deaths 道路交通死亡人数
++ Percentage living in slums 贫民窟居住比例
++ Number of attacks on facilities/infrastructure 基础设施被袭事件数量
++ Institutional capacity and access to resources 机构能力和资源可获得性
 + Catastrophe insurance 巨灾保险 
-+ Disaster-risk informed development 灾害风险知情发展
-+ Air transport facilities 航空运输设施
-+ Road network 道路网
-+ Power network 电力网
-+ Rail network 铁路网
-+ Cyber-security preparedness 网络安全防范
++ Disaster-risk informed development 知晓灾害风险后的发展
++ Air transport facilities 空运设施
++ Road network 道路网络
++ Power network 电力网络
++ Rail network 铁路网络
++ Cyber-security preparedness 网络安全准备
 
-## Health security 健康安全
+## Health security 卫生安全
 ### Inputs
 + Environmental policies 环境政策
-+ Access to healthcare 获得保健服务
-+ No. of beds per 1,000 population 每1 000人的床位数
-+ No. of doctors per 1,000 population 每1 000人中的医生数量
-+ Access to safe and quality food 获得安全和优质食品
-+ Quality of health services 保健服务的质量
++ Access to healthcare 医疗服务可得性
++ No. of beds per 1,000 population 每千人医院床位数
++ No. of doctors per 1,000 population 每千人医生数
++ Access to safe and quality food 食品安全
++ Quality of health services 健康服务质量
 
 ### Outputs
 + Air quality (PM 2.5 levels) 空气质量 (PM 2.5水平)
 + Water quality 水质
-+ Life expectancy years 预期寿命年数
++ Life expectancy years 预期寿命
 + Infant mortality 婴儿死亡率
 + Cancer mortality rate 癌症死亡率
-+ No. of biological, chemical,radiological weapons attacks 生物、化学、放射性武器攻击次数
-+ Emergency services in the city 该市的应急服务
++ No. of biological, chemical,radiological weapons attacks 生化放射性武器袭击次数
++ Emergency services in the city 城市紧急服务
 
 ## Personal security 个人安全
 ### Inputs
-+ Level of police engagement 警察的参与程度
++ Level of police engagement 警察介入程度
 + Community-based patrolling 社区巡逻
-+ Available street-level crime data 现有街头犯罪数据
++ Available street-level crime data 街头犯罪数据可获得性
 + Use of data-driven techniques for crime 使用数据驱动技术打击犯罪
-+ Private security measures 私人保安措施
++ Private security measures 私人安保措施
 + Gun regulation and enforcement 枪支管制和执法
 + Political stability risk 政治稳定风险
-+ Effectiveness of the criminal justice system 刑事司法系统的有效性
-+ Hazard monitoring 危害监测
++ Effectiveness of the criminal justice system 刑事司法体系有效性
++ Hazard monitoring 危险监测
 
 ### Outputs
 
-+ Prevalence of petty crime 轻罪的发生率
-+ Prevalence of violent crime 暴力犯罪的发生率
-+ Organised crime 有组织犯罪
++ Prevalence of petty crime 轻罪比例
++ Prevalence of violent crime 暴力犯罪比例
++ Organised crime 有组织犯罪比例
 + Level of corruption 腐败程度
-+ Rate of drug use 毒品使用率
-+ Frequency of terrorist attacks 恐怖袭击的频率
-+ Severity of terrorist attacks 恐怖袭击的严重性
-+ Gender safety (female homicide) 性别安全（女性杀人案） 
-+ Perceptions of safety 对安全的看法
-+ Threat of terrorism 恐怖主义的威胁
-+ Threat of military conflict 军事冲突的威胁
-+ Threat of civil unrest 内乱的威胁
++ Rate of drug use 吸毒比例
++ Frequency of terrorist attacks 恐怖袭击频率
++ Severity of terrorist attacks 恐怖袭击严重程度
++ Gender safety (female homicide) 性别安全（女性被凶杀） 
++ Perceptions of safety 安全感
++ Threat of terrorism 恐怖主义威胁
++ Threat of military conflict 军事冲突威胁
++ Threat of civil unrest 内乱威胁
 
 ## The rise of resilience and enhancements to this year’s index
 
@@ -571,7 +578,7 @@ approach. Kuwait City has the highest level of internet access (98%), but weakne
 
 **值得注意的是：**在扩大接入之前做好安全工作似乎是最好的办法。科威特市的互联网接入水平最高(98%)，但隐私政策、公民对网络安全的认识和专门的网络安全团队方面的弱点有助于解释为什么该市20%至30%的计算机受到感染，以及该市在恶意软件的存在方面得分较低。
 
-### Health security 健康安全
+### Health security 卫生安全
 
 #### The top five:
 
@@ -715,7 +722,7 @@ Going beyond the winners and losers in the index tables, a wider look at the res
 
 As discussed above, different kinds of safety are relevant even when walking down the street. At first sight, the most obvious thing about these different kinds of security is that they rely on different providers: someone might call the police for a personal security issue, say, but a doctor for health security.
 
-如上所述，即使走在大街上，不同种类的安全也是相关的。乍一看，这些不同种类的安全最明显的一点是，它们依靠的是不同的提供者：比如说，有人可能会因为个人安全问题而报警，但却会因为健康安全而找医生。
+如上所述，即使走在大街上，不同种类的安全也是相关的。乍一看，这些不同种类的安全最明显的一点是，它们依靠的是不同的提供者：比如说，有人可能会因为个人安全问题而报警，但却会因为卫生安全而找医生。
 
 The scores in the four index pillars, though,turn out to be closely correlated. Just how intertwined different kinds of security are is “definitely not commonly or widely understood” among the public or policymakers notes Ms Johnston.
 
@@ -723,7 +730,7 @@ The scores in the four index pillars, though,turn out to be closely correlated. 
 
 A look at the overall standings shows that the ranking of any given city in a particular pillar tends not to vary greatly from its ranking in other pillars. In other words, cities tend to be similarly good, mediocre or poor across all aspects of safety rather than leaders in one area and laggards in another. The accompanying graph, comparing the overall scores for personal and health security, shows just how closely these are related, suggesting that we simply go to the police for one and the doctor for the other is too simplistic.
 
-审视一下总体排名就会发现，任何一个城市在某一特定核心领域的排名往往与其在其他核心领域的排名差别不大。换句话说，各城市在安全的所有方面往往都是同样的好、平庸或差，而不是在某一领域领先，在另一领域落后。附图比较了人身安全和健康安全的总体得分，显示了这两者之间的密切关系，这表明我们简单地去找警察，找医生是过于简单化了。
+审视一下总体排名就会发现，任何一个城市在某一特定核心领域的排名往往与其在其他核心领域的排名差别不大。换句话说，各城市在安全的所有方面往往都是同样的好、平庸或差，而不是在某一领域领先，在另一领域落后。附图比较了人身安全和卫生安全的总体得分，显示了这两者之间的密切关系，这表明我们简单地去找警察，找医生是过于简单化了。
 
 This statistical link is no accident. In London,for example, the UK’s Mental Health Crisis Care Concordat results, among other things,in police working with other appropriate agencies to get the best care for individuals experiencing a mental health crisis, who might previously simply have been arrested if they had threatened the safety of others. However,Lord Bernard Hogan-Howe, recently retired as commissioner of London’s Metropolitan Police,explains that one reason for fewer deaths from violence or accidents in many cities, quite apart from improvements in policing or other services, is better emergency healthcare.
 
@@ -733,7 +740,7 @@ This statistical link is no accident. In London,for example, the UK’s Mental H
 
 The personal-health safety link is the rule,not the exception. Infrastructure scores also correlate closely with those of other pillars.This is a connection that Mr Tomer notes “is pretty typical that folks miss”, except in obvious cases of massive infrastructure failure. Fumihiko Nakamura, vice-president of Yokohama National University in Japan, points out that urban infrastructure shapes lifestyles,including things as basic as whether one walks or drives to work. As a result, “infrastructure either propels, or detracts from, one’s health”,and therefore the health security of many citizens. Similarly, note several interviewees,the design of public places can have a substantial impact on the personal safety of those using them.
 
-个人健康安全的联系是规则，而不是例外。基础设施的得分与其他核心的得分也密切相关，Tomer先生指出，这种联系 "是人们所忽略的非常典型的"，除非是大规模基础设施故障的明显案例。日本横滨国立大学副校长中村文彦（Fumihiko Nakamura）指出，城市基础设施影响生活方式，包括步行或开车上班等基本事项。因此，"基础设施要么推动，要么减损一个人的健康"，因此，许多市民的健康保障也会受到影响。同样，一些受访者指出，公共场所的设计会对使用这些场所的人的人身安全产生重大影响。
+个人卫生安全的联系是规则，而不是例外。基础设施的得分与其他核心的得分也密切相关，Tomer先生指出，这种联系 "是人们所忽略的非常典型的"，除非是大规模基础设施故障的明显案例。日本横滨国立大学副校长中村文彦（Fumihiko Nakamura）指出，城市基础设施影响生活方式，包括步行或开车上班等基本事项。因此，"基础设施要么推动，要么减损一个人的健康"，因此，许多市民的健康保障也会受到影响。同样，一些受访者指出，公共场所的设计会对使用这些场所的人的人身安全产生重大影响。
 
 Perhaps the most underappreciated—and therefore particularly noteworthy—connection
 is that between digital security and other fields. Gregory Falco, cyber research fellow at Stanford University, observes that “digital and physical security are very closely entwined.Nevertheless, it is hard for citizens and governments to align the two things.”
@@ -1493,7 +1500,7 @@ part through transparency—and, even more important, creating the opportunities
 
 In 2015 The Economist Intelligence Unit developed an index assessing the safety of major cities across the globe, across four domains: digital security, health security,infrastructure security and personal security.The SCI2015, sponsored by NEC Corporation, was developed in response to critical concerns surrounding urban and public safety.
 
-2015年，经济学人智库开发了一个评估全球主要城市安全的指数，横跨四个领域：数字安全、健康安全、基础设施安全和个人安全。"SCI2015 "由NEC公司赞助，是针对围绕城市和公共安全的关键问题而开发的。
+2015年，经济学人智库开发了一个评估全球主要城市安全的指数，横跨四个领域：数字安全、卫生安全、基础设施安全和个人安全。"SCI2015 "由NEC公司赞助，是针对围绕城市和公共安全的关键问题而开发的。
 
 Present UN estimates show that in 2018 a little more than half of the world’s population are
 living in urban areas and this number is bound to rise, projected to reach 68% by 2050.This rapid rise in urban populations has caused immense pressure on existing resources, often giving way to an unruly urban sprawl. In light of these trends, there are valid concerns around the safety of these cities, be it the safety of a city’s residents from terror attacks or from road accidents.
@@ -1511,12 +1518,12 @@ In this context, it is imperative that we understand the landscape of public saf
 The SCI was launched in 2015, ranking 50 cities on 44 indicators across the four domains of
 digital security, health security, infrastructure security and personal security. In its second edition in 2017, the index was expanded to include more cities, ranking 60 cities based on 49 indicators in the same four domains.
 
-SCI于2015年推出，根据数字安全、健康安全、基础设施安全和人身安全四个领域的44个指标对50个城市进行排名。在2017年的第二版中，该指数扩大了范围，纳入了更多的城市，根据相同的四个领域的49个指标对60个城市进行了排名。
+SCI于2015年推出，根据数字安全、卫生安全、基础设施安全和人身安全四个领域的44个指标对50个城市进行排名。在2017年的第二版中，该指数扩大了范围，纳入了更多的城市，根据相同的四个领域的49个指标对60个城市进行了排名。
 
 In this third edition of the index (2019), the core focus continues to be centred around digital security, health security, infrastructure security and personal security. The 2019 index ranks 60 cities, on 57 indicators. In this edition,The Economist Intelligence Unit has modified the framework to increase focus on gauging a city’s climate change or disaster risk
 resilience/preparedness.
 
-在第三版指数（2019）中，核心关注点仍然围绕数字安全、健康安全、基础设施安全和人身安全展开。2019年的指数对60个城市进行了排名，涉及57个指标。在这一版中，经济学人智库对框架进行了修改，更加注重衡量一个城市的气候变化或灾害风险抵御能力/准备情况。
+在第三版指数（2019）中，核心关注点仍然围绕数字安全、卫生安全、基础设施安全和人身安全展开。2019年的指数对60个城市进行了排名，涉及57个指标。在这一版中，经济学人智库对框架进行了修改，更加注重衡量一个城市的气候变化或灾害风险抵御能力/准备情况。
 
 Due to the change in city coverage and additional indicators, direct year-on-year comparisons between cities are not possible.Scores and rankings reflect the relative performance of a city and should be considered for the year in scope, especially due to changes in methodology/indicators and cities in scope in the 2019 edition.
 
